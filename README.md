@@ -20,6 +20,8 @@ The study seeks to answer the following questions:
 - Which state has the least population?
 - How does the population relate to grand electors? That is, how many people does each vote represent based on a state’s population?
 - How are states tiered in relation to their grand electors?
+# Link
+Here is the link to the Google Colaboratory [https://colab.research.google.com/drive/1SY11JW3avzd0VyQ6xlNopcmj9kqm2yWc#scrollTo=8K2XSidqcZ4k]
 
 ## Technologies Used
 Various Python Libraries 
